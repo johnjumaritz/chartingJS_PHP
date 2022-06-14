@@ -42,7 +42,6 @@
    
 
     <!-- end of cdn 1st charts -->
-</body>
-</html>
+
 </body>
 </html>
